@@ -16,7 +16,6 @@
         <link type="text/css" rel="stylesheet" href="css/style.css"  media="screen,projection"/>
 
     </head>
-
     <body>
         <nav class="white blue-grey-text text-darken-2">
             <div class="container">
@@ -38,7 +37,6 @@
                 </div>
             </div>
         </nav>
-        <!--div class="row hero" style="background-image: url('images/header-<?php print rand(1,4) ?>.jpg');"-->
         <div class="row hero">
             <div class="container">
                 <div class="col s12">
