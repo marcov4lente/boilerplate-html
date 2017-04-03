@@ -10,3 +10,28 @@
 .pagination-label {
     padding-top: 4px;
 }
+
+.dialog {
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 990;
+    width: 30%;
+}
+
+.dialog-delete {
+    display:none;
+}
+
+.dialog .col {
+    padding: 10px;
+}
+
+.dialog .dismiss {
+    position: absolute;
+    top: -5px;
+    right: 0px;
+    z-index: 99;
+    padding: 10px;
+}
